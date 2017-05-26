@@ -1,0 +1,26 @@
+{
+  "name": "js_test",
+  "version": "1.0.0",
+  "description": "first JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hali93/js.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Halina Panasieiwcz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hali93/js/issues"
+  },
+  "homepage": "https://github.com/hali93/js#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
